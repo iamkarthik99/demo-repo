@@ -1,3 +1,3 @@
 # demo-repo
 demo purpose
-Author Karthik
+Author Karthik (iamkarthik)
